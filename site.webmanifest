@@ -1,0 +1,15 @@
+{
+  "name": "Community Health ",
+  "short_name": "HealthConnect",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fb",
+  "theme_color": "#1d7d7d",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
